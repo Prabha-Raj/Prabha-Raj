@@ -93,12 +93,20 @@ const prabhakar = {
 
 ---
 
+### 📊 GitHub Metrics and Activity
+<div align="center">
+  <!-- This section will be automatically updated by metrics.yml -->
+  <img src="https://github.com/Prabha-Raj/Prabha-Raj/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
+</div>
+
+---
+
 ### 📈 GitHub Stats
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prabha-Raj&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Prabha-Raj&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="GitHub Stats" width="100%" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabha-Raj&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6" alt="GitHub Streak" width="100%" />
@@ -108,7 +116,7 @@ const prabhakar = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabha-Raj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabha-Raj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="Top Languages" width="40%" />
 </div>
 
 ---
@@ -120,9 +128,28 @@ const prabhakar = {
 
 ---
 
-### 📊 Contribution Activity
+### 📊 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabha-Raj&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+  <!-- This section will be automatically updated by the snake.yml workflow -->
+  <img src="https://raw.githubusercontent.com/Prabha-Raj/Prabha-Raj/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+### ⏱ Weekly Coding Stats
+<div align="center">
+  <!--START_SECTION:waka-->
+  <!-- This section will be automatically updated by wakatime.yml -->
+  <!--END_SECTION:waka-->
+</div>
+
+---
+
+### 📝 Latest Blog Posts
+<div align="center">
+  <!-- This section will be automatically updated by blog-post-workflow.yml -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </div>
 
 ---
@@ -134,19 +161,46 @@ const prabhakar = {
 
 ---
 
-### 🔝 Featured Repositories
+### 🔝 Top Repositories
 <div align="center">
-  <!-- For personal project showcases -->
-  <a href="https://github.com/Prabha-Raj">
-    <img src="https://img.shields.io/badge/Check%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub Repositories" />
+  <a href="https://github.com/Prabha-Raj/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=github-readme-stats&theme=radical" alt="github-readme-stats" />
+  </a>
+  <a href="https://github.com/Prabha-Raj/github-readme-streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=github-readme-streak-stats&theme=radical" alt="github-readme-streak-stats" />
   </a>
 </div>
 
 ---
 
-### 🛠️ Recent Work
+### 🛠️ Latest Projects
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prabha-Raj&repo=Prabha-Raj&theme=radical" alt="Profile README" />
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Prabha-Raj/project1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=project1&theme=radical" alt="Project 1" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Prabha-Raj/project2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=project2&theme=radical" alt="Project 2" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Prabha-Raj/project3">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=project3&theme=radical" alt="Project 3" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Prabha-Raj/project4">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=project4&theme=radical" alt="Project 4" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
