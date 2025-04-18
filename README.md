@@ -120,6 +120,28 @@ Python       1 hr 17 mins    █▒░░░░░░░░░░░░░░░
 
 ---
 
+### 📈 Weekly Development Activity
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prabha-Raj&layout=compact&theme=radical" />
+</p>
+
+<!-- Optional Pie Chart -->
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['JavaScript','React','CSS','Node.js','Python'],datasets:[{data:[46.6,31.3,10.7,6.6,4.8]}]}}" width="300" />
+</p>
+
+<!-- WakaTime Graph Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prabha-Raj&layout=compact&theme=radical" alt="WakaTime Stats" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Prabha-Raj&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prabha-Raj&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
