@@ -1,4 +1,3 @@
-# .github/workflows/wakatime.yml
 name: Waka Readme
 
 on:
