@@ -26,20 +26,46 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-```javascript
+// 🌟 Developer Profile: Prabhakar Rajput 🌟
+
 const prabhakar = {
   fullName: "Prabhakar Rajput",
-  role: "Full Stack Developer",
-  language: ["JavaScript", "Python", "PHP", "TypeScript"],
-  framework: ["React", "Node", "Express", "Django", "Flask", "Next.js"],
-  database: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-  devTools: ["Git", "Postman", "VSCode", "Docker", "AWS"],
-  currentlyLearning: "WebRTC, AI Integration, TypeScript, Web3",
-  architecture: ["Microservices", "Single-page Applications", "Progressive Web Apps"],
-  challenge: "Building scalable applications that solve real-world problems",
-  funFact: "I love building things that help people 💡",
+  role: "🚀 Full Stack Developer | MERN & Django Enthusiast",
+
+  // 💻 Languages I speak fluently
+  languages: ["JavaScript", "Python", "PHP", "TypeScript"],
+
+  // ⚙️ Frameworks & Libraries I love working with
+  frameworks: ["React", "Node.js", "Express.js", "Django", "Flask", "Next.js"],
+
+  // 🗄️ Databases I use to store the magic
+  databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+
+  // 🛠️ Developer Tools that power my workflow
+  devTools: ["Git", "Postman", "VS Code", "Docker", "AWS"],
+
+  // 📚 Currently Exploring & Leveling Up
+  currentlyLearning: [
+    "WebRTC", 
+    "AI Integration", 
+    "TypeScript (Advanced)", 
+    "Web3 (Blockchain Basics)"
+  ],
+
+  // 🏗️ Architecture Patterns I believe in
+  architecture: [
+    "Microservices",
+    "Single Page Applications (SPA)",
+    "Progressive Web Apps (PWA)"
+  ],
+
+  // 🚧 My Developer Mission
+  challenge: "Building scalable & intuitive applications that solve real-world problems 🌍",
+
+  // 🎉 Something fun about me
+  funFact: "I love building things that help people 💡 and make life easier 🚀",
 };
-```
+
 
 <div align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
