@@ -1,8 +1,15 @@
-<h1 align="center">Hi there, I'm Prabhakar Rajput <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">🚀 MERN Stack Developer | 💻 Tech Enthusiast | 🌐 Passionate Coder</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding GIF" width="450" />
+</div>
+
+<h1 align="center">
+  ✨ Prabhakar Rajput ✨
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FDA44&center=true&vCenter=true&width=435&lines=Web+Developer+💻;Open+Source+Contributor+🌍;Lifelong+Learner+📘;Tech+Lover+❤️;Problem+Solver+🚀" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/MERN-Stack%20Developer-blue?style=for-the-badge" alt="MERN Stack Developer"/>
+  <img src="https://img.shields.io/badge/Tech-Enthusiast-purple?style=for-the-badge" alt="Tech Enthusiast"/>
+  <img src="https://img.shields.io/badge/Passionate-Coder-orange?style=for-the-badge" alt="Passionate Coder"/>
 </p>
 
 <div align="center">
@@ -11,20 +18,14 @@
   </a>
 </div>
 
----
-
-<!-- Theme Toggle - This is a reference, actual implementation requires GitHub Actions -->
 <div align="center">
-  <a href="https://github.com/settings/appearance#gh-light-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/theme-light-brightgreen.svg?style=for-the-badge#gh-light-mode-only" alt="Light Mode"/>
-  </a>
-  <a href="https://github.com/settings/appearance#gh-dark-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/theme-dark-darkviolet.svg?style=for-the-badge#gh-dark-mode-only" alt="Dark Mode"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Web%20Developer&fontSize=40&fontAlignY=30" width="100%" alt="Header" />
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-```ts
+---
+
+### 👨‍💻 About Me
+```javascript
 const prabhakar = {
   fullName: "Prabhakar Rajput",
   role: "Full Stack Developer",
@@ -38,114 +39,181 @@ const prabhakar = {
 ```
 
 <div align="center">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me  
+### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/prabhakar-rajput-5721652a3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/coding_lover_2.0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/codingworld434" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:prabhakarrajput78824@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://prabhaport.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+  <a href="https://www.linkedin.com/in/prabhakar-rajput-5721652a3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/coding_lover_2.0/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/codingworld434" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:prabhakarrajput78824@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://prabhaport.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,django,php,python,jquery,redux,tailwind,bootstrap,vite,git,github,postman,figma,vercel,netlify" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
+---
+
+### 📊 GitHub Metrics and Activity
 <div align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
+  <!-- This section will be automatically updated by metrics.yml -->
+  <img src="https://github.com/Prabha-Raj/Prabha-Raj/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+### 📈 GitHub Stats
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Prabha-Raj&theme=radical&show_icons=true&hide_border=false&include_all_commits=false&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Prabha-Raj&theme=buefy&show_icons=true&hide_border=false&include_all_commits=false&count_private=true">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prabha-Raj&theme=radical&show_icons=true&hide_border=false&include_all_commits=false&count_private=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Prabha-Raj&theme=radical&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Prabha-Raj&theme=buefy&hide_border=false">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Prabha-Raj&theme=radical&hide_border=false" />
-  </picture>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Prabha-Raj&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="GitHub Stats" width="100%" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabha-Raj&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabha-Raj&theme=radical&layout=compact&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabha-Raj&theme=buefy&layout=compact&hide_border=false">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabha-Raj&theme=radical&layout=compact&hide_border=false" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabha-Raj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="Top Languages" width="40%" />
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/NMG8gfpL8enCNMj6Xy/giphy.gif" width="30"> GitHub Trophies
+### 🏆 GitHub Trophies
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Prabha-Raj&theme=onestar&no-frame=true&margin-w=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Prabha-Raj&theme=flat&no-frame=true&margin-w=10">
-    <img src="https://github-profile-trophy.vercel.app/?username=Prabha-Raj&theme=onestar&no-frame=true&margin-w=10" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabha-Raj&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/VhWVAa7rUtT3xKX6Cd/giphy.gif" width="30"> My Contributions
+### 📊 Contribution Graph
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prabha-Raj/Prabha-Raj/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prabha-Raj/Prabha-Raj/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prabha-Raj/Prabha-Raj/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- This section will be automatically updated by the snake.yml workflow -->
+  <img src="https://raw.githubusercontent.com/Prabha-Raj/Prabha-Raj/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
 
-### ✍️ Dev Quote
+### ⏱ Weekly Coding Stats
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  </picture>
+  <!--START_SECTION:waka-->
+  <!-- This section will be automatically updated by wakatime.yml -->
+  <!--END_SECTION:waka-->
+</div>
+
+---
+
+### 📝 Latest Blog Posts
+<div align="center">
+  <!-- This section will be automatically updated by blog-post-workflow.yml -->
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</div>
+
+---
+
+### 💡 Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
 ---
 
 ### 🔝 Top Repositories
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Prabha-Raj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=Prabha-Raj&limit=5&theme=vue&combine_all_yearly_contributions=true">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Prabha-Raj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-  </picture>
+  <a href="https://github.com/Prabha-Raj/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=github-readme-stats&theme=radical" alt="github-readme-stats" />
+  </a>
+  <a href="https://github.com/Prabha-Raj/github-readme-streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=github-readme-streak-stats&theme=radical" alt="github-readme-streak-stats" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Latest Projects
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Prabha-Raj/project1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=project1&theme=radical" alt="Project 1" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Prabha-Raj/project2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=project2&theme=radical" alt="Project 2" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Prabha-Raj/project3">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=project3&theme=radical" alt="Project 3" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Prabha-Raj/project4">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=project4&theme=radical" alt="Project 4" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### 📊 Visitors
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Prabha-Raj&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://profile-counter.glitch.me/Prabha-Raj/count.svg" alt="Visitor Count" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="60" height="60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
 </div>
 
----
-
 <h3 align="center">
-  <img src="https://media.giphy.com/media/dxITs87fTAxTncZ6WL/giphy.gif" width="28">
-  Keep Learning. Keep Growing. Keep Coding.
-  <img src="https://media.giphy.com/media/dxITs87fTAxTncZ6WL/giphy.gif" width="28">
+  ⚡️ Keep Learning. Keep Growing. Keep Coding. ⚡️
 </h3>
