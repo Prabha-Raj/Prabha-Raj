@@ -1,25 +1,32 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
     - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:
+  workflow_dispatch:        # Allows manual triggering
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 10     # Prevents long-running jobs
+    
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout repository
+        uses: actions/checkout@v4  # Updated to latest version
+        
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3      # Updated to stable v3
+        id: snake-generator
         with:
           github_user_name: Prabha-Raj
           svg_out_path: dist/github-contribution-grid-snake.svg
           svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.5.0
+          
+      - name: Commit and push output
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          add: 'dist/*.svg'
+          message: 'Update snake animation'
+          author_name: Prabhakar Rajput
+          author_email: prabhakarrajput78824@gmail.com
