@@ -141,10 +141,6 @@ Python       1 hr 17 mins    █▒░░░░░░░░░░░░░░░
   <img src="https://raw.githubusercontent.com/Prabha-Raj/Prabha-Raj/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Prabha-Raj/Prabha-Raj/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
-</div>
-
 ---
 
 ### 🔥 Featured Projects
