@@ -139,11 +139,6 @@ Python       1 hr 17 mins    █▒░░░░░░░░░░░░░░░
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabha-Raj&theme=radical" width="100%" alt="Profile Summary" />
 </div>
 
-<div align="center">
-  <img src="https://prabha-raj.github.io/Prabha-Raj/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
-</div>
-
-
 ### 💻 Code Time
 <div align="center">
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.2%20million%20lines%20of%20code-blue" alt="Lines of code" />
