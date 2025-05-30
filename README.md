@@ -120,26 +120,6 @@ Python       1 hr 17 mins    █▒░░░░░░░░░░░░░░░
 
 ---
 
-### 📈 Weekly Development Activity
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prabha-Raj&layout=compact&theme=radical" />
-</p>
-
-<!-- Optional Pie Chart -->
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['JavaScript','React','CSS','Node.js','Python'],datasets:[{data:[46.6,31.3,10.7,6.6,4.8]}]}}" width="300" />
-</p>
-
-<!-- WakaTime Graph Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prabha-Raj&layout=compact&theme=radical" alt="WakaTime Stats" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Prabha-Raj&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
-</p>
 
 
 ### 🏆 GitHub Trophies
@@ -163,30 +143,6 @@ Python       1 hr 17 mins    █▒░░░░░░░░░░░░░░░
   <img src="https://prabha-raj.github.io/Prabha-Raj/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
 </div>
 
----
-
-### 🔥 Featured Projects
-<div align="center">
-
-  <a href="https://github.com/Prabha-Raj/OnePointServices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=OnePointServices&theme=radical" alt="OnePointServices Repo" />
-  </a>
-
-  <a href="https://github.com/Prabha-Raj/TechConnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=TechConnect&theme=radical" alt="TechConnect Repo" />
-  </a>
-
-  <a href="https://github.com/Prabha-Raj/MyJobMarket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=MyJobMarket&theme=radical" alt="MyJobMarket Repo" />
-  </a>
-
-  <a href="https://github.com/Prabha-Raj/ErrorQuiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabha-Raj&repo=ErrorQuiz&theme=radical" alt="ErrorQuiz Repo" />
-  </a>
-
-</div>
-
----
 
 ### 💻 Code Time
 <div align="center">
