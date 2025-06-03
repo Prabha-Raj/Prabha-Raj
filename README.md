@@ -88,7 +88,7 @@ const prabhakar = {
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prabha-Raj&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="GitHub Stats" width="100%" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabha-Raj&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6" alt="GitHub Streak" width="100%" />
+        <h1>1000+</h1>
       </td>
     </tr>
   </table>
