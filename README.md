@@ -15,14 +15,16 @@
 </p>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Web%20Developer&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%" alt="Header" />
+</div>
+
+
+<div align="center">
   <a href="https://github.com/Prabha-Raj">
     <img src="https://komarev.com/ghpvc/?username=Prabha-Raj&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Web%20Developer&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%" alt="Header" />
-</div>
 
 ---
 
