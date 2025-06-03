@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack%20Developer-blue?style=for-the-badge&logo=react&logoColor=white" alt="Er. Prabhakar Rajput"/>
+  <img src="https://img.shields.io/badge/Tech-Enthusiast-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Tech Enthusiast"/>
+  <img src="https://img.shields.io/badge/Passionate-Coder-orange?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Passionate Coder"/>
+</h1>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding GIF" width="500" />
 </div>
