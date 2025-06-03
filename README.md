@@ -1,7 +1,6 @@
 <h6 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=%E2%9C%A8+Hi%2C+I'm+Prabhakar+Rajput+%E2%9C%A8;Full-Stack+MERN+Developer;Passionate+About+Web+Technologies;Building+Scalable+Web+Apps;Always+Learning+%26+Improving" alt="Typing SVG" width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=400&height=45&lines=%E2%9C%A8+Hi%2C+I'm+Prabhakar+Rajput+%E2%9C%A8;Full-Stack+MERN+Developer;Passionate+About+Web+Technologies;Building+Scalable+Web+Apps;Always+Learning+%26+Improving" alt="Typing SVG" width="400" />
 </h6>
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding GIF" width="500" />
