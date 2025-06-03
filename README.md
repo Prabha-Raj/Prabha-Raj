@@ -1,16 +1,12 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack%20Developer-blue?style=for-the-badge&logo=react&logoColor=white" alt="Er. Prabhakar Rajput"/>
-  <img src="https://img.shields.io/badge/Tech-Enthusiast-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Tech Enthusiast"/>
-  <img src="https://img.shields.io/badge/Passionate-Coder-orange?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Passionate Coder"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=%E2%9C%A8+Hi%2C+I'm+Prabhakar+Rajput+%E2%9C%A8;Full-Stack+MERN+Developer;Passionate+About+Web+Technologies;Building+Scalable+Web+Apps;Always+Learning+%26+Improving" alt="Typing SVG" />
 </h1>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding GIF" width="500" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&height=70&lines=%E2%9C%A8+Prabhakar+Rajput+%E2%9C%A8;MERN+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack%20Developer-blue?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack Developer"/>
