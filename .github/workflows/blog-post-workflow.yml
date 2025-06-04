@@ -1,17 +1,20 @@
-# .github/workflows/blog-post-workflow.yml
 name: Latest blog post workflow
+
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 * * * *' # runs every hour
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+
+      - name: Blog post workflow
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/YourDevToUsername,https://medium.com/feed/@YourMediumUsername"
+          feed_list: "https://medium.com/feed/@prabhakarrajput,https://dev.to/feed/prabhakarrajput"
+          max_post_count: 5
