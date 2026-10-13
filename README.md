@@ -11,7 +11,7 @@
 
 - 🔭 Passionate **MERN stack dev** building scalable SaaS, marketplaces & real‑time apps.  
 - 💼 Freelance developer—React, Node, Django, PHP, MySQL, MongoDB, Tailwind, Bootstrap.  
-- 🎓 Diploma in **Computer Science (75 %)** – Government Polytechnic Bijnor.  
+- 🎓 Diploma in **Computer Science** – Government Polytechnic Bijnor.  
 - ⚙️ Love crafting **custom dashboards, video‑conf apps, admin panels, REST/GraphQL APIs**.  
 - 🚀 Always learning new tech, optimising UI/UX & shipping production‑ready code.  
 
@@ -25,8 +25,8 @@
 | **Frontend** | React • Next.js • Vite • Tailwind CSS • Bootstrap • ShadCN UI • Daisy UI |
 | **Backend** | Node.js • Express • Django • Flask • JWT‑Auth • REST & WebSocket |
 | **Databases** | MongoDB • Mongoose • MySQL • PostgreSQL |
-| **Dev Tools** | Git & GitHub • VS Code • Postman • Netlify • Render • Vercel |
-| **Testing & CI/CD** | Jest • React Testing Lib • GitHub Actions |
+| **Dev Tools** | Git & GitHub • VS Code • Postman • Netlify • Render • Vercel | AWS |
+| **Testing & CI/CD** | Jest • React Testing Lib • GitHub Actions | Terraform |
 
 ---
 
